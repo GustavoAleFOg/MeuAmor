@@ -1,0 +1,37 @@
+ 
+ header {
+    background-color: black;
+    color: pink;
+    text-align: center;
+ }
+ 
+ body {
+    
+    background: linear-gradient(90deg,rgba(255, 0, 0, 0.8) 0%, rgba(0, 0, 255, 0.8) 33%, rgba(0, 0, 0, 0.8) 66%, rgba(160, 32, 240, 0.8) 100%);
+    text-align: center;
+ }
+
+
+ div {
+    text-align: center;
+
+ }
+
+p {
+    font-size: 20px;
+}
+
+ img {
+    width: 300px;
+ }
+
+ figcaption {
+    font-size: 50px;
+    color: crimson;
+ }
+
+ footer {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+ }
