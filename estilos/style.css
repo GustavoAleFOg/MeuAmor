@@ -1,13 +1,44 @@
- 
+
+
  header {
     background-color: black;
     color: pink;
     text-align: center;
  }
+
+ main {
+    background-color: #ff92e4;
+ }
+
+ main div h2 {
+   color: #000;
+   width: 400px;
+   border: 3px solid #fd01fd;
+   border-radius: 25px;
+   display: inline-block;
+   margin-top: 20px;
+ }
+
+ nav {
+   background-color: rgb(234, 15, 15);
+   text-align: center;
+ }
+ nav div ul li{
+   display: inline;
+   margin: 0px 20px;
+  
+   
+ }
+
+ nav div ul li:hover {
+   background-color: #d5f600;
+   border: 3px solid #dc0a8b;
+   margin: 2px;
+   font-size: 24px;
+ }
  
  body {
-    
-    background: linear-gradient(90deg,rgba(255, 0, 0, 0.8) 0%, rgba(0, 0, 255, 0.8) 33%, rgba(0, 0, 0, 0.8) 66%, rgba(160, 32, 240, 0.8) 100%);
+    background-color: #ff00f7;
     text-align: center;
  }
 
